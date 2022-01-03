@@ -1,8 +1,9 @@
-Professional Portfolio
+Hey there, This is SmartGuri's Professional Portfolio Github page.
 
-Please visit https://smartguri.github.io/gurpreetsingh/
+To check my portfolio, please click on this link: https://smartguri.github.io/
 
-Thanks for stopping by.
+I hope you will Love my portfolio. Thanks for stopping by.
 
 With Love,
-Gurpreet S.
+Gurpreet Singh
+(SmartGuri)
